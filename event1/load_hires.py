@@ -17,14 +17,13 @@ def load_hires(sc_id, date):
         f'{len(hr_paths)} HiRes paths found in {pathlib.Path(config["FB_DIR"])} '
         f'that match {search_str}.'
         )
-    hr = readJSONheadedASCII(str(hr_paths[0]))
-    hr['Time'] = pd.to_datetime(hr['Time'])
-    return
+    hr = readJSONheadedASCII(hr_paths[0])
+    return hr
 
 def readJSONheadedASCII(file_path):
     """
-    My basic implementation of spacepy.datamodel.readJSONheadedASCII
-    (for some who) have difficulty installing it.
+    My simple implementation of spacepy.datamodel.readJSONheadedASCII
+    necessary if you can't install spacepy for whatever reason.
     """
     # Read in the JSON header.
     header_list = []
@@ -51,9 +50,13 @@ def readJSONheadedASCII(file_path):
         if key == 'Time':
             continue
         key_header = parsed_header[key]
-        # column attributes
+        # Header key that correspond to columns
         if isinstance(key_header, dict):
-            print(key_header['DIMENSION'])
+            if len(key_header['DIMENSION']) != 1:
+                raise NotImplementedError(
+                    "readJSONheadedASCII doesn't implement columns with more than "
+                    f"1 multidimensional. Got {key_header['DIMENSION']}."
+                    )
             start_column = key_header['START_COLUMN']-1
             end_column = key_header['START_COLUMN']-1+key_header['DIMENSION'][0]
             if key_header['DIMENSION'][0] == 1:
@@ -63,7 +66,7 @@ def readJSONheadedASCII(file_path):
             
             data.attrs[key] = key_header
         else:
-            # Global attributes
+            # Header key that correspond to global attributes
             if key in ['CADENCE', 'CAMPAIGN']:
                 data.attrs[key] = float(key_header)
             else:
