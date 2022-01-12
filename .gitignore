@@ -9,3 +9,4 @@ env/
 *.pyc
 .vscode/settings.json
 data/*
+config.ini
