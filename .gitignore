@@ -1,0 +1,11 @@
+/__pycache__/*
+config.py
+env/
+*.egg-info/
+
+*.npy
+*.png
+*.pdf
+*.pyc
+.vscode/settings.json
+data/*
