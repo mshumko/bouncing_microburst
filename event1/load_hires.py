@@ -1,7 +1,9 @@
 import pathlib
 import json
+from datetime import datetime
 
 import numpy as np
+import pandas as pd
 
 from event1 import config
 
@@ -15,7 +17,7 @@ def load_hires(sc_id, date):
         f'{len(hr_paths)} HiRes paths found in {pathlib.Path(config.FB_DIR)} '
         f'that match {search_str}.'
         )
-    hr = spacepy.datamodel.readJSONheadedASCII(str(hr_paths[0]))
+    hr = readJSONheadedASCII(str(hr_paths[0]))
     hr['Time'] = pd.to_datetime(hr['Time'])
     return
 
@@ -36,3 +38,6 @@ def readJSONheadedASCII(file_path):
     parsed_header = json.loads(header)
 
     return
+
+if __name__ == '__main__':
+    hr = load_hires(4, datetime(2015, 5, 25))
