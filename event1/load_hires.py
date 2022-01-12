@@ -22,8 +22,9 @@ def load_hires(sc_id, date):
 
 def readJSONheadedASCII(file_path):
     """
-    My simple implementation of spacepy.datamodel.readJSONheadedASCII
-    necessary if you can't install spacepy for whatever reason.
+    My simple implementation of spacepy.datamodel.readJSONheadedASCII that
+    is specific for FIREBIRD-II data. You may use this if you can't install 
+    spacepy for whatever reason.
     """
     # Read in the JSON header.
     header_list = []
@@ -47,9 +48,11 @@ def readJSONheadedASCII(file_path):
     data = HiRes()
     data['Time'] = pd.to_datetime(times_str)
     for key in parsed_header:
-        if key == 'Time':
-            continue
         key_header = parsed_header[key]
+        data.attrs[key] = key_header  # Save the attribute data.
+
+        if key == 'Time':  # We already added Time.
+            continue
         # Header key that correspond to columns
         if isinstance(key_header, dict):
             if len(key_header['DIMENSION']) != 1:
@@ -63,15 +66,12 @@ def readJSONheadedASCII(file_path):
                 data[key] = data_converted[:, start_column]
             else:
                 data[key] = data_converted[:, start_column:end_column]
-            
-            data.attrs[key] = key_header
         else:
             # Header key that correspond to global attributes
             if key in ['CADENCE', 'CAMPAIGN']:
                 data.attrs[key] = float(key_header)
             else:
                 data.attrs[key] = key_header
-        
     return data
 
 class HiRes(dict):
