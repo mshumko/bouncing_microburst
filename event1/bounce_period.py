@@ -14,7 +14,7 @@ def bounce_period(sc_id, time):
     maginput = {'Kp':hr['kp'][idt]}
 
     m = IRBEM.MagFields(kext='T89')
-    return m.bounce_period(X, maginput, 200)
+    return m.bounce_period(X, maginput, 251)
 
 if __name__ == '__main__':
     tb = bounce_period(4, datetime(2015, 5, 25, 18, 18, 52))
