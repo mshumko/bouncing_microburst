@@ -1,0 +1,31 @@
+Hi Mike,
+
+the manuscript looks really much better now.
+
+You have to update your Key Points:  
+Multiple bounces of a microburst are observed by two FIREBIRD CubSats at LEO 
+Microburst scale size has been derived from two points LEO electron flux measurements
+The lower bound lat/lon scale sizes of the microburst at LEO were 29±1 km and 50±10 km, respectively 
+
+L21: The result  "28.8 ± 0.8 km and 50.8 ± 11.4 km, " has to be written as  "29±1 km and 51±11 km " or even "29±1 km and 50±10 km". Your listing is an exceeding of accuracy. 
+It is the same with "504 ± 14 km and 530 ± 119 km " - taking into account projections errors I would say "the radial and azimuthal scale sizes are found to be 500±100 km"
+Its lower bound latitudinal and longitudinal scales were estimated to be 29 ± 1 km and 50 ± 10 km at LEO, which corresponds to the radial and azimuthal scale of 500 ± 100 mapped to the geomagnetic equator plane."
+
+I know how you like Fig.3 but I suggest to remove the maximum based estimations - you will have much better correspondence. You may show lowest and highest values by error lines if you want. Like that:
+
+
+
+I suggest to change the order of 3.1 and 3.2 and Fig 2 and 3: the main result id the scale size, so, should be after all. Bounce period is related to Fig.1 also. 
+
+3.3. - please, rewrite. At the moment this section is unclear.
+
+I suggest to merge Discussion and Conclusions.  You may start the Conclusions paragraph by "To conclude,..."
+
+Please, add the paper to the references:  
+Mozer, F. S., Agapitov, O. V., Blake, J. B., & Vasko, I. Y. (2018). Simultaneous Observations of Lower Band Chorus Emissions at the Equator and Microburst Precipitating Electrons in the Ionosphere. Geophysical Research Letters, 45(2), 2017GL076120. https://doi.org/10.1002/2017GL076120
+
+Please, add to Acknowledge one my grant: The work of OA was supported by the NASA grant NNX16AF85G
+
+Best Regards,
+Oleksiy
+

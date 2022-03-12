@@ -1,0 +1,45 @@
+Comments/suggestions:
+
+Line 20: First such uburst observation? Is it really? My 2016 paper was also a simultaneous observation of a microburst on 2 s/c, but I think what you’re meaning here is it’s the first simultaneous observation of one where you have the bounce pattern, as well as being the first one of a “large” uburst (emphasis on the large). But as written, I’m not sure that captures well. 
+DONE
+
+Line 35: extra spaces after the period (this shows up in a number of places that I won’t call out individually, but you should scan for these) 
+DONE
+
+Line 43: ~100 ms duration enhancements… 
+DONE
+
+Line 46: I don’t follow the sentence that goes: “Relativistic microbursts have not yet been observed….” John can comment further on balloon observations here, but this seems a bit too blanket of a statement. Also you need to consider what your breakpoint on a “relativistic” electron is. 511 keV is the rest mass energy of an electron, obviously 1 MeV is relativistic, but arguably everything FIREBIRD sees is relativistic, esp. as compared to the 10-20 keV range done with sounding rockets in the 90s. Think about if this sentence really is what you want.
+DONE
+
+Line 58-59: I would consider inserting the word “individual” in front of microbursts and “elements” after chorus. It’s not just times of both, but the co-location of the s/c on magnetic field lines that’s big there. 
+DONE
+
+Line 61: “They” is ambiguous as to what it refers to. 
+DONE
+
+Line 66. Is this # in LEO? (I suspect it’s actually at balloon altitude). You should specify, especially since there are large differences in how to interpret #s in LEO (where we observe the events) or in the source region (as far as scale sizes). Being clear about these will help a lot with the “so what” of the paper. We care about uburst scale size not just because it’s cool to know how big, but also because it helps us say “how impactful” and “how do these sizes compare with other things”. DONE
+
+Line 68: same comment about LEO, etc. 
+DONE
+
+Line 71: It’s been awhile since I’ve read that paper, but I believe it is based off a single pass, and used the absence of correlated events to show a size less than 4 km. It’s a reasonable result given limitations of mother nature and satellite trajectory but it may not be the be-all end-all there. Worth reading the details and potentially adjusting your language.
+THINK ABOUT THIS
+
+Line 75: your using “Scale size” where I think you mean “spatial separation” here. These are different (although share a lot of similarities) and can lead to confusion.
+NOT DONE
+
+Line 92: when giving energy specify center energy or minimum of the energy channel here. (either one is probably fine, just make it clear which it is).
+NOT DONE
+ 
+Line 102: I would add “suggestive of energy dependent bounce periods” to the first sentence. That energy dispersion really is a cool thing and helps your story a ton. I think you’re a little too subtle about it though, on first reading it took me a bit to figure out what you’re doing. I think it really helps tie things together so the more you beat the “not only do we see the events, but these dispersions tie in with bounce dynamics to show we get the evolution right” 
+DONE
+
+Line 117: Question to you: Wouldn’t there be an implication of different loss rates at different energies owing to the different ionization rate peak heights. And if so would we able to see such an effect? I’d never really thought about it and suspect we have too many confounding factors here.
+DONE
+
+Line 190: “The energy spectra is soft for a typical uburst observed with FIREBIRD-II”. Explain this. Where do you make/justify this conclusion? Is there a figure?
+NOT DONE 
+
+Line 194-200: Make sure to be clear what altitude you quote scale sizes at.
+DONE

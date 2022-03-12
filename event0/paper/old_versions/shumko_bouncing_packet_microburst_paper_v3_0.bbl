@@ -1,0 +1,337 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Abel and Thorne}(1998)}]{Abel1998_1}
+Abel, B., and R.~M. Thorne (1998), Electron scattering loss in earth's inner
+  magnetosphere: 1. dominant physical processes, \textit{Journal of Geophysical
+  Research: Space Physics}, \textit{103}(A2), 2385--2396.
+
+\bibitem[{\textit{Agapitov et~al.}(2010)\textit{Agapitov, Krasnoselskikh,
+  Zaliznyak, Angelopoulos, Le~Contel, and Rolland}}]{Agapitov2010}
+Agapitov, O., V.~Krasnoselskikh, Y.~Zaliznyak, V.~Angelopoulos, O.~Le~Contel,
+  and G.~Rolland (2010), Chorus source region localization in the earth's outer
+  magnetosphere using themis measurements, \textit{Annales Geophysicae},
+  \textit{28}(6), 1377--1386, \doi{10.5194/angeo-28-1377-2010}.
+
+\bibitem[{\textit{Agapitov et~al.}(2011)\textit{Agapitov, Krasnoselskikh,
+  Dudok~de Wit, Khotyaintsev, Pickett, Santolik, and Rolland}}]{Agapitov2011b}
+Agapitov, O., V.~Krasnoselskikh, T.~Dudok~de Wit, Y.~Khotyaintsev, J.~S.
+  Pickett, O.~Santolik, and G.~Rolland (2011), Multispacecraft observations of
+  chorus emissions as a tool for the plasma density fluctuations' remote
+  sensing, \textit{Journal of Geophysical Research: Space Physics},
+  \textit{116}(A9), n/a--n/a, \doi{10.1029/2011JA016540}, a09222.
+
+\bibitem[{\textit{Agapitov et~al.}(2017)\textit{Agapitov, Blum, Mozer, Bonnell,
+  and Wygant}}]{Agapitov2017a}
+Agapitov, O., L.~W. Blum, F.~S. Mozer, J.~W. Bonnell, and J.~Wygant (2017),
+  Chorus whistler wave source scales as determined from multipoint van allen
+  probe measurements, \textit{Geophysical Research Letters}, pp. n/a--n/a,
+  \doi{10.1002/2017GL072701}, 2017GL072701.
+
+\bibitem[{\textit{Anderson et~al.}(2017)\textit{Anderson, Shekhar, Millan,
+  Crew, Spence, Klumpar, Blake, O'Brien, and Turner}}]{Anderson2017}
+Anderson, B., S.~Shekhar, R.~Millan, A.~Crew, H.~Spence, D.~Klumpar, J.~Blake,
+  T.~O'Brien, and D.~Turner (2017), Spatial scale and duration of one
+  microburst region on 13 august 2015, \textit{Journal of Geophysical Research:
+  Space Physics}.
+
+\bibitem[{\textit{Anderson and Milton}(1964)}]{Anderson1964}
+Anderson, K.~A., and D.~W. Milton (1964), Balloon observations of x rays in the
+  auroral zone: 3. high time resolution studies, \textit{Journal of Geophysical
+  Research}, \textit{69}(21), 4457--4479, \doi{10.1029/JZ069i021p04457}.
+
+\bibitem[{\textit{Blake et~al.}(1996)\textit{Blake, Looper, Baker, Nakamura,
+  Klecker, and Hovestadt}}]{Blake1996}
+Blake, J., M.~Looper, D.~Baker, R.~Nakamura, B.~Klecker, and D.~Hovestadt
+  (1996), New high temporal and spatial resolution measurements by sampex of
+  the precipitation of relativistic electrons, \textit{Advances in Space
+  Research}, \textit{18}(8), 171 -- 186,
+  \doi{http://dx.doi.org/10.1016/0273-1177(95)00969-8}.
+
+\bibitem[{\textit{Blum et~al.}(2015)\textit{Blum, Li, and Denton}}]{Blum2015}
+Blum, L., X.~Li, and M.~Denton (2015), Rapid mev electron precipitation as
+  observed by sampex/hilt during high-speed stream-driven storms,
+  \textit{Journal of Geophysical Research: Space Physics}, \textit{120}(5),
+  3783--3794, \doi{10.1002/2014JA020633}, 2014JA020633.
+
+\bibitem[{\textit{Boscher et~al.}(2012)\textit{Boscher, Bourdarie, O'Brien,
+  Guild, and Shumko}}]{irbem}
+Boscher, D., S.~Bourdarie, P.~O'Brien, T.~Guild, and M.~Shumko (2012),
+  Irbem-lib library.
+
+\bibitem[{\textit{Breneman et~al.}(2017)\textit{Breneman, Crew, Sample,
+  Klumpar, Johnson, Agapitov, Shumko, Turner, Santolik, Wygant
+  et~al.}}]{Breneman2017}
+Breneman, A., A.~Crew, J.~Sample, D.~Klumpar, A.~Johnson, O.~Agapitov,
+  M.~Shumko, D.~Turner, O.~Santolik, J.~Wygant, et~al. (2017), Observations
+  directly linking relativistic electron microbursts to whistler mode chorus:
+  Van allen probes and firebird ii, \textit{Geophysical Research Letters}.
+
+\bibitem[{\textit{Comess et~al.}(2013)\textit{Comess, Smith, Selesnick, Millan,
+  and Sample}}]{Comess2013}
+Comess, M., D.~Smith, R.~Selesnick, R.~Millan, and J.~Sample (2013), Duskside
+  relativistic electron precipitation as measured by sampex: A statistical
+  survey, \textit{Journal of Geophysical Research: Space Physics},
+  \textit{118}(8), 5050--5058, \doi{10.1002/jgra.50481}.
+
+\bibitem[{\textit{Crew et~al.}(2016)\textit{Crew, Spence, Blake, Klumpar,
+  Larsen, O'Brien, Driscoll, Handley, Legere, Longworth, Mashburn, Mosleh,
+  Ryhajlo, Smith, Springer, and Widholm}}]{Crew2016}
+Crew, A.~B., H.~E. Spence, J.~B. Blake, D.~M. Klumpar, B.~A. Larsen, T.~P.
+  O'Brien, S.~Driscoll, M.~Handley, J.~Legere, S.~Longworth, K.~Mashburn,
+  E.~Mosleh, N.~Ryhajlo, S.~Smith, L.~Springer, and M.~Widholm (2016), First
+  multipoint in situ observations of electron microbursts: Initial results from
+  the nsf firebird ii mission, \textit{Journal of Geophysical Research: Space
+  Physics}, \textit{121}(6), 5272--5283, \doi{10.1002/2016JA022485},
+  2016JA022485.
+
+\bibitem[{\textit{Datta et~al.}(1997)\textit{Datta, Skoug, McCarthy, and
+  Parks}}]{Datta1997}
+Datta, S., R.~Skoug, M.~McCarthy, and G.~Parks (1997), Modeling of microburst
+  electron precipitation using pitch angle diffusion theory, \textit{Journal of
+  Geophysical Research: Space Physics}, \textit{102}(A8), 17,325--17,333.
+
+\bibitem[{\textit{Dietrich et~al.}(2010)\textit{Dietrich, Rodger, Clilverd,
+  Bortnik, and Raita}}]{Dietrich2010}
+Dietrich, S., C.~J. Rodger, M.~A. Clilverd, J.~Bortnik, and T.~Raita (2010),
+  Relativistic microburst storm characteristics: Combined satellite and
+  ground-based observations, \textit{Journal of Geophysical Research: Space
+  Physics}, \textit{115}(A12).
+
+\bibitem[{\textit{Fang et~al.}(2010)\textit{Fang, Randall, Lummerzheim, Wang,
+  Lu, Solomon, and Frahm}}]{Fang2010}
+Fang, X., C.~E. Randall, D.~Lummerzheim, W.~Wang, G.~Lu, S.~C. Solomon, and
+  R.~A. Frahm (2010), Parameterization of monoenergetic electron impact
+  ionization, \textit{Geophysical Research Letters}, \textit{37}(22).
+
+\bibitem[{\textit{Gurnett et~al.}(1979)\textit{Gurnett, Anderson, Scarf,
+  Fredricks, and Smith}}]{Gurnett1979}
+Gurnett, D., R.~Anderson, F.~Scarf, R.~Fredricks, and E.~Smith (1979), Initial
+  results from the isee-1 and-2 plasma wave investigation, \textit{Space
+  Science Reviews}, \textit{23}(1), 103--122.
+
+\bibitem[{\textit{Horne and Thorne}(2003)}]{Horne2003}
+Horne, R.~B., and R.~M. Thorne (2003), Relativistic electron acceleration and
+  precipitation during resonant interactions with whistler-mode chorus,
+  \textit{Geophysical Research Letters}, \textit{30}(10), n/a--n/a,
+  \doi{10.1029/2003GL016973}, 1527.
+
+\bibitem[{\textit{Kletzing et~al.}(2013)\textit{Kletzing, Kurth, Acuna,
+  MacDowall, Torbert, Averkamp, Bodet, Bounds, Chutter, Connerney
+  et~al.}}]{Kletzing2013}
+Kletzing, C., W.~Kurth, M.~Acuna, R.~MacDowall, R.~Torbert, T.~Averkamp,
+  D.~Bodet, S.~Bounds, M.~Chutter, J.~Connerney, et~al. (2013), The electric
+  and magnetic field instrument suite and integrated science (emfisis) on rbsp,
+  \textit{Space Science Reviews}, \textit{179}(1-4), 127--181.
+
+\bibitem[{\textit{Klumpar et~al.}(2015)\textit{Klumpar, Springer, Mosleh,
+  Mashburn, Berardinelli, Gunderson, Handly, Ryhajlo, Spence, Smith, Legere,
+  Widholm, Longworth, Crew, Larsen, Blake, and Walmsley}}]{Klumpar2015}
+Klumpar, D., L.~Springer, E.~Mosleh, K.~Mashburn, S.~Berardinelli,
+  A.~Gunderson, M.~Handly, N.~Ryhajlo, H.~Spence, S.~Smith, J.~Legere,
+  M.~Widholm, S.~Longworth, A.~Crew, B.~Larsen, J.~Blake, and N.~Walmsley
+  (2015), Flight system technologies enabling the twin-cubesat firebird-ii
+  scientific mission.
+
+\bibitem[{\textit{Lee et~al.}(2005)\textit{Lee, Parks, Min, Kim, Park, Hwang,
+  McCarthy, Lee, Ryu, Lim, Sim, Lee, Kang, and Park}}]{Lee2005}
+Lee, J.-J., G.~K. Parks, K.~W. Min, H.~J. Kim, J.~Park, J.~Hwang, M.~P.
+  McCarthy, E.~Lee, K.~S. Ryu, J.~T. Lim, E.~S. Sim, H.~W. Lee, K.~I. Kang, and
+  H.~Y. Park (2005), Energy spectra of 170-360 kev electron microbursts
+  measured by the korean stsat-1, \textit{Geophysical Research Letters},
+  \textit{32}(13), \doi{10.1029/2005GL022996}, l13106.
+
+\bibitem[{\textit{Lee et~al.}(2012)\textit{Lee, Parks, Lee, Tsurutani, Hwang,
+  Cho, Kim, Park, Min, and McCarthy}}]{Lee2012}
+Lee, J.~J., G.~K. Parks, E.~Lee, B.~T. Tsurutani, J.~Hwang, K.~S. Cho, K.-H.
+  Kim, Y.~D. Park, K.~W. Min, and M.~P. McCarthy (2012), Anisotropic pitch
+  angle distribution of ~100 kev microburst electrons in the loss cone:
+  measurements from stsat-1, \textit{Annales Geophysicae}, \textit{30}(11),
+  1567--1573, \doi{10.5194/angeo-30-1567-2012}.
+
+\bibitem[{\textit{Li et~al.}(2009)\textit{Li, Thorne, Angelopoulos, Bortnik,
+  Cully, Ni, LeContel, Roux, Auster, and Magnes}}]{Li2009}
+Li, W., R.~M. Thorne, V.~Angelopoulos, J.~Bortnik, C.~M. Cully, B.~Ni,
+  O.~LeContel, A.~Roux, U.~Auster, and W.~Magnes (2009), Global distribution of
+  whistler-mode chorus waves observed on the themis spacecraft,
+  \textit{Geophysical Research Letters}, \textit{36}(9), n/a--n/a,
+  \doi{10.1029/2009GL037595}, l09104.
+
+\bibitem[{\textit{Lorentzen et~al.}(2001{\natexlab{a}})\textit{Lorentzen,
+  Blake, Inan, and Bortnik}}]{Lorentzen2001a}
+Lorentzen, K.~R., J.~B. Blake, U.~S. Inan, and J.~Bortnik (2001{\natexlab{a}}),
+  Observations of relativistic electron microbursts in association with vlf
+  chorus, \textit{Journal of Geophysical Research: Space Physics},
+  \textit{106}(A4), 6017--6027, \doi{10.1029/2000JA003018}.
+
+\bibitem[{\textit{Lorentzen et~al.}(2001{\natexlab{b}})\textit{Lorentzen,
+  Looper, and Blake}}]{Lorentzen2001b}
+Lorentzen, K.~R., M.~D. Looper, and J.~B. Blake (2001{\natexlab{b}}),
+  Relativistic electron microbursts during the gem storms, \textit{Geophysical
+  Research Letters}, \textit{28}(13), 2573--2576, \doi{10.1029/2001GL012926}.
+
+\bibitem[{\textit{Mauk et~al.}(2013)\textit{Mauk, Fox, Kanekal, Kessel, Sibeck,
+  and Ukhorskiy}}]{Mauk2013}
+Mauk, B., N.~J. Fox, S.~Kanekal, R.~Kessel, D.~Sibeck, and A.~Ukhorskiy (2013),
+  Science objectives and rationale for the radiation belt storm probes mission,
+  \textit{Space Science Reviews}, \textit{179}(1-4), 3--27.
+
+\bibitem[{\textit{Meredith et~al.}(2002)\textit{Meredith, Horne, Summers,
+  Thorne, Iles, Heynderickx, and Anderson}}]{Meredith2002}
+Meredith, N., R.~Horne, D.~Summers, R.~Thorne, R.~Iles, D.~Heynderickx, and
+  R.~Anderson (2002), Evidence for acceleration of outer zone electrons to
+  relativistic energies by whistler mode chorus, in \textit{Annales
+  Geophysicae}, vol.~20, pp. 967--979.
+
+\bibitem[{\textit{Millan and Thorne}(2007)}]{Millan2007}
+Millan, R., and R.~Thorne (2007), Review of radiation belt relativistic
+  electron losses, \textit{Journal of Atmospheric and Solar-Terrestrial
+  Physics}, \textit{69}(3), 362 -- 377,
+  \doi{http://dx.doi.org/10.1016/j.jastp.2006.06.019}, global Aspects of
+  Magnetosphere-Ionosphere CouplingGlobal Aspects of Magnetosphere-Ionosphere
+  Coupling.
+
+\bibitem[{\textit{Millan et~al.}(2002)\textit{Millan, Lin, Smith, Lorentzen,
+  and McCarthy}}]{Millan2002}
+Millan, R.~M., R.~Lin, D.~Smith, K.~Lorentzen, and M.~McCarthy (2002), X-ray
+  observations of mev electron precipitation with a balloon-borne germanium
+  spectrometer, \textit{Geophysical research letters}, \textit{29}(24).
+
+\bibitem[{\textit{Mozer et~al.}(2018)\textit{Mozer, Agapitov, Blake, and
+  Vasko}}]{Mozer2018}
+Mozer, F.~S., O.~V. Agapitov, J.~B. Blake, and I.~Y. Vasko (2018), Simultaneous
+  observations of lower band chorus emissions at the equator and microburst
+  precipitating electrons in the ionosphere, \textit{Geophysical Research
+  Letters}, pp. n/a--n/a, \doi{10.1002/2017GL076120}, 2017GL076120.
+
+\bibitem[{\textit{Nakamura et~al.}(1995)\textit{Nakamura, Baker, Blake,
+  Kanekal, Klecker, and Hovestadt}}]{Nakamura1995}
+Nakamura, R., D.~N. Baker, J.~B. Blake, S.~Kanekal, B.~Klecker, and
+  D.~Hovestadt (1995), Relativistic electron precipitation enhancements near
+  the outer edge of the radiation belt, \textit{Geophysical Research Letters},
+  \textit{22}(9), 1129--1132, \doi{10.1029/95GL00378}.
+
+\bibitem[{\textit{Nakamura et~al.}(2000)\textit{Nakamura, Isowa, Kamide, Baker,
+  Blake, and Looper}}]{Nakamura2000}
+Nakamura, R., M.~Isowa, Y.~Kamide, D.~Baker, J.~Blake, and M.~Looper (2000),
+  Observations of relativistic electron microbursts in association with vlf
+  chorus, \textit{J. Geophys. Res}, \textit{105}, 15,875--15,885.
+
+\bibitem[{\textit{O'Brien et~al.}(2003)\textit{O'Brien, Lorentzen, Mann,
+  Meredith, Blake, Fennell, Looper, Milling, and Anderson}}]{O'Brien2003}
+O'Brien, T.~P., K.~R. Lorentzen, I.~R. Mann, N.~P. Meredith, J.~B. Blake, J.~F.
+  Fennell, M.~D. Looper, D.~K. Milling, and R.~R. Anderson (2003), Energization
+  of relativistic electrons in the presence of ulf power and mev microbursts:
+  Evidence for dual ulf and vlf acceleration, \textit{Journal of Geophysical
+  Research: Space Physics}, \textit{108}(A8), n/a--n/a,
+  \doi{10.1029/2002JA009784}, 1329.
+
+\bibitem[{\textit{O'Brien et~al.}(2004)\textit{O'Brien, Looper, and
+  Blake}}]{O'Brien2004}
+O'Brien, T.~P., M.~D. Looper, and J.~B. Blake (2004), Quantification of
+  relativistic electron microburst losses during the gem storms,
+  \textit{Geophysical Research Letters}, \textit{31}(4), n/a--n/a,
+  \doi{10.1029/2003GL018621}, l04802.
+
+\bibitem[{\textit{Olson and Pfitzer}(1982)}]{Olson1982}
+Olson, W.~P., and K.~A. Pfitzer (1982), A dynamic model of the magnetospheric
+  magnetic and electric fields for july 29, 1977, \textit{Journal of
+  Geophysical Research: Space Physics}, \textit{87}(A8), 5943--5948,
+  \doi{10.1029/JA087iA08p05943}.
+
+\bibitem[{\textit{Parks}(2003)}]{Parks2003}
+Parks, G. (2003), \textit{Physics Of Space Plasmas: An Introduction, Second
+  Edition}, Westview Press.
+
+\bibitem[{\textit{Parks}(1967)}]{Parks1967}
+Parks, G.~K. (1967), Spatial characteristics of auroral-zone x-ray microbursts,
+  \textit{Journal of Geophysical Research}, \textit{72}(1), 215--226.
+
+\bibitem[{\textit{Santolik et~al.}(2003)\textit{Santolik, Gurnett, Pickett,
+  Parrot, and Cornilleau-Wehrlin}}]{Santolik2003}
+Santolik, O., D.~Gurnett, J.~Pickett, M.~Parrot, and N.~Cornilleau-Wehrlin
+  (2003), Spatio-temporal structure of storm-time chorus, \textit{Journal of
+  Geophysical Research: Space Physics}, \textit{108}(A7).
+
+\bibitem[{\textit{Schulz and Lanzerotti}(1974)}]{Schulz1974}
+Schulz, M., and L.~J. Lanzerotti (1974), \textit{Particle Diffusion in the
+  Radiation Belts}, Springer.
+
+\bibitem[{\textit{Selesnick et~al.}(2003)\textit{Selesnick, Blake, and
+  Mewaldt}}]{Selesnick2003}
+Selesnick, R.~S., J.~B. Blake, and R.~A. Mewaldt (2003), Atmospheric losses of
+  radiation belt electrons, \textit{Journal of Geophysical Research: Space
+  Physics}, \textit{108}(A12), \doi{10.1029/2003JA010160}, 1468.
+
+\bibitem[{\textit{Shprits and Thorne}(2004)}]{Shprits2004}
+Shprits, Y.~Y., and R.~M. Thorne (2004), Time dependent radial diffusion
+  modeling of relativistic electrons with realistic loss rates,
+  \textit{Geophysical Research Letters}, \textit{31}(8), n/a--n/a,
+  \doi{10.1029/2004GL019591}, l08805.
+
+\bibitem[{\textit{Shprits et~al.}(2007)\textit{Shprits, Meredith, and
+  Thorne}}]{Shprits2007}
+Shprits, Y.~Y., N.~P. Meredith, and R.~M. Thorne (2007), Parameterization of
+  radiation belt electron loss timescales due to interactions with chorus
+  waves, \textit{Geophysical Research Letters}, \textit{34}(11), n/a--n/a,
+  \doi{10.1029/2006GL029050}, l11110.
+
+\bibitem[{\textit{Spence et~al.}(2012)\textit{Spence, Blake, Crew, Driscoll,
+  Klumpar, Larsen, Legere, Longworth, Mosleh, O'Brien, Smith, Springer, and
+  Widholm}}]{Spence2012}
+Spence, H.~E., J.~B. Blake, A.~B. Crew, S.~Driscoll, D.~M. Klumpar, B.~A.
+  Larsen, J.~Legere, S.~Longworth, E.~Mosleh, T.~P. O'Brien, S.~Smith,
+  L.~Springer, and M.~Widholm (2012), Focusing on size and energy dependence of
+  electron microbursts from the van allen radiation belts, \textit{Space
+  Weather}, \textit{10}(11), \doi{10.1029/2012SW000869}.
+
+\bibitem[{\textit{Summers et~al.}(1998)\textit{Summers, Thorne, and
+  Xiao}}]{Summers1998}
+Summers, D., R.~M. Thorne, and F.~Xiao (1998), Relativistic theory of
+  wave-particle resonant diffusion with application to electron acceleration in
+  the magnetosphere, \textit{Journal of Geophysical Research: Space Physics},
+  \textit{103}(A9), 20,487--20,500.
+
+\bibitem[{\textit{Thorne}(2010)}]{Thorne2010}
+Thorne, R.~M. (2010), Radiation belt dynamics: The importance of wave-particle
+  interactions, \textit{Geophysical Research Letters}, \textit{37}(22),
+  \doi{10.1029/2010GL044990}, l22107.
+
+\bibitem[{\textit{Thorne et~al.}(2005)\textit{Thorne, O'Brien, Shprits,
+  Summers, and Horne}}]{Thorne2005}
+Thorne, R.~M., T.~P. O'Brien, Y.~Y. Shprits, D.~Summers, and R.~B. Horne
+  (2005), Timescale for mev electron microburst loss during geomagnetic storms,
+  \textit{Journal of Geophysical Research: Space Physics}, \textit{110}(A9),
+  n/a--n/a, \doi{10.1029/2004JA010882}, a09202.
+
+\bibitem[{\textit{Tsyganenko}(1989)}]{Tsyganenko1989}
+Tsyganenko, N. (1989), A solution of the chapman-ferraro problem for an
+  ellipsoidal magnetopause, \textit{Planetary and Space Science},
+  \textit{37}(9), 1037 -- 1046,
+  \doi{http://dx.doi.org/10.1016/0032-0633(89)90076-7}.
+
+\bibitem[{\textit{Tsyganenko and Sitnov}(2005)}]{Tsyganenko2005}
+Tsyganenko, N.~A., and M.~I. Sitnov (2005), Modeling the dynamics of the inner
+  magnetosphere during strong geomagnetic storms, \textit{Journal of
+  Geophysical Research: Space Physics}, \textit{110}(A3), n/a--n/a,
+  \doi{10.1029/2004JA010798}, a03208.
+
+\bibitem[{\textit{Ukhorskiy et~al.}(2006)\textit{Ukhorskiy, Anderson, Brandt,
+  and Tsyganenko}}]{Ukhorskiy2006}
+Ukhorskiy, A.~Y., B.~J. Anderson, P.~C. Brandt, and N.~A. Tsyganenko (2006),
+  Storm time evolution of the outer radiation belt: Transport and losses,
+  \textit{Journal of Geophysical Research: Space Physics}, \textit{111}(A11),
+  n/a--n/a, \doi{10.1029/2006JA011690}, a11S03.
+
+\bibitem[{\textit{Woodger et~al.}(2015)\textit{Woodger, Halford, Millan,
+  McCarthy, Smith, Bowers, Sample, Anderson, and Liang}}]{Woodger2015}
+Woodger, L., A.~Halford, R.~Millan, M.~McCarthy, D.~Smith, G.~Bowers,
+  J.~Sample, B.~Anderson, and X.~Liang (2015), A summary of the barrel
+  campaigns: Technique for studying electron precipitation, \textit{Journal of
+  Geophysical Research: Space Physics}, \textit{120}(6), 4922--4935.
+
+\end{thebibliography}

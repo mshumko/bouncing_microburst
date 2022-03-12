@@ -1,0 +1,9 @@
+Thanks for all the improvements on this. I plan to review the paper this weekend.
+
+ 
+
+Since my contribution to the paper is related to my previous work at MSU, I believe my affiliation should be listed as such. The AGU guidelines seem to agree (see “Title Page” section):
+
+ 
+
+“Author affiliations should indicate to the reader where the author was employed or affiliated with at the time of the work.  Current addresses or affiliations should be indicated with a footnote. Authors are expected to indicate in the acknowledgements and cover letter any additional affiliations or employment that might be perceived as a conflict of interest related to the paper.”
